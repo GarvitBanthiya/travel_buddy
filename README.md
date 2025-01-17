@@ -3,6 +3,10 @@
 ## Overview
 The Travel Tours App is a React-based application that dynamically displays a list of travel destinations. Users can explore available tours, remove tours they are not interested in, and refresh the list to restore all tours. This app demonstrates state management, component-based architecture, and interactivity using React.
 
+![Screenshot 2025-01-13 153832](https://github.com/user-attachments/assets/2abd44d9-1116-4afe-9de1-cd6062fc9fc1)
+
+![Screenshot 2025-01-13 153348](https://github.com/user-attachments/assets/e570fae1-c3f8-4f4a-ae5a-069ec1594e13)
+
 ---
 
 ## Features
